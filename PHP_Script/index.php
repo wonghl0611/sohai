@@ -9,7 +9,7 @@
 
 	<div id="header" class="mainHeader">
 		<hr>
-		<div class="center"><H1>Lola Social Research Organization</H1></div>
+		<div class="center"><H1>Sustainability Social Research Organization</H1></div>
 	</div>
 	<br>
 	<?php
@@ -52,7 +52,7 @@
 		</div>
 			<table>
 				<tr>
-					<td><figure><img src="Idris.jpeg" height=auto width="400"><figcaption>Ahmad Idris</figcaption></figure></td>
+					<td><figure><img src="Idris.jpg" height=auto width="400"><figcaption>Ahmad Idris</figcaption></figure></td>
 				</tr>	
 					<tr><td><p>Our site got started when John Clinton found that she was frequently looking up data from a variety of databases. <br>Idris decided to start sharing some of this data with other social researchers. </p></td>
 				</tr>
